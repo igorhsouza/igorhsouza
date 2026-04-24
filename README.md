@@ -1,6 +1,6 @@
-
-<h1 align="center">⚡ Igor Henrique ⚡</h1>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,50:4B0082,100:8A2BE2&text=Igor%20Henrique&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Automation%20Analyst%20•%20Python%20Developer%20•%20%20Builder&descAlignY=58&descSize=16"/>
+</p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Automation+Analyst;Python+Developer;Shadow+Builder;Creating+Real+Systems;Oracle+%2B+AI+%2B+Automation" />
 </p>
