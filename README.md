@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Igor Henrique</h1>
 
 <p align="center">
