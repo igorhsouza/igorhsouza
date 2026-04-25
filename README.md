@@ -73,14 +73,6 @@ Turning repetitive operations into scalable systems.
 
 ---
 
-<h2 align="center">🏆 Performance</h2>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=igorhsouza&theme=discord&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 <h2 align="center">🌌 Contribution Matrix</h2>
 
 <p align="center">
