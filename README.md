@@ -1,98 +1,88 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,50:4B0082,100:8A2BE2&text=Igor%20Henrique&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Automation%20Analyst%20•%20Python%20Developer%20•%20%20Builder&descAlignY=58&descSize=16"/>
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Automation+Analyst;Python+Developer;Shadow+Builder;Creating+Real+Systems;Oracle+%2B+AI+%2B+Automation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:001F3F,50:0052A3,100:007ACC&text=Igor%20Henrique&fontColor=ffffff&fontSize=48&fontAlignY=35&animation=fadeIn&desc=AI%20Engineer%20•%20Backend%20&%20Automation%20Specialist&descAlignY=58&descSize=16"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/From-Brazil-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Remote-Ready-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Real%20Solutions-8A2BE2?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=007ACC&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Building+Production-Ready+LLM+Systems;Backend+%26+Automation+Pipelines+(Python+%2B+FastAPI);Structured+Outputs+%2B+RAG+%2B+Tool+Calling;Database+Integrations+(PostgreSQL+%7C+Oracle+%7C+Docker)" />
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/igorhsl">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <img src="https://img.shields.io/badge/Location-Brazil-007ACC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Work-Remote%20Ready-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/English-Professional%20Working-007ACC?style=for-the-badge"/>
+  <a href="https://linkedin.com/in/igorhsl" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<h2 align="center">🧠 Core Identity</h2>
+## Overview
 
-<p align="center">
-<img src="https://img.shields.io/badge/Mindset-Builder-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Role-Automation%20Analyst-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Niche-Retail%20Tech-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Style-Execution-111111?style=for-the-badge"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Applied%20AI%20%26%20Backend-007ACC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Architecture-Event--Driven%20%26%20Microservices-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Delivery-Production%20Systems-007ACC?style=flat-square"/>
 </p>
 
-<p align="center">
-Turning repetitive operations into scalable systems.
+Software and AI Engineer specializing in designing resilient automation systems and production-grade LLM applications. Experienced in developing deterministic data extraction pipelines, agentic workflows, and backend services integrated with enterprise databases.
+
+---
+
+## Technical Stack
+
+<p align="left">
+  <strong>Languages & Infrastructure:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,linux&theme=dark"/>
+</p>
+
+<p align="left">
+  <strong>AI Engineering & Data Orchestration:</strong><br/>
+  <img src="https://img.shields.io/badge/LLM%20Orchestration-Gemini%20%7C%20OpenAI-0052A3?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Validation-Pydantic-007ACC?style=flat-square&logo=pydantic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Workflow%20Automation-n8n-0052A3?style=flat-square&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databases-Oracle%20%7C%20PostgreSQL-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Processing-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 </p>
 
 ---
 
-<h2 align="center">⚔️ Tech Arsenal</h2>
+## Featured Implementations
+
+### Enterprise Retail Intelligence Pipeline
+<img src="https://img.shields.io/badge/Stack-Python%20%7C%20Oracle%20%7C%20FastAPI%20%7C%20Docker-111111?style=flat-square"/>
+
+Automated ETL and auditing service querying Oracle ERP databases, evaluating inventory turnover and business metrics, and dispatching real-time operational reports via Telegram and Email.
+
+### AI Customer Operations Microservice
+<img src="https://img.shields.io/badge/Stack-Python%20%7C%20Structured%20Outputs%20%7C%20n8n%20%7C%20Webhooks-111111?style=flat-square"/>
+
+Event-driven customer support engine utilizing LLMs with strict Pydantic schema validation to triage incoming inquiries, trigger automated CRM actions, and manage customer communications.
+
+### Automated Margin & Pricing Auditor
+<img src="https://img.shields.io/badge/Stack-n8n%20%7C%20Python%20%7C%20ERP%20Integration-111111?style=flat-square"/>
+
+Daily auditing workflow that analyzes ERP price fluctuations, identifies margin discrepancies across catalog items, and generates structured executive audit summaries.
+
+### Deterministic LLM Data Extractors
+<img src="https://img.shields.io/badge/Stack-Pydantic%20%7C%20Google%20GenAI%20%7C%20JSON%20Schema-111111?style=flat-square"/>
+
+Production-ready parsing pipelines designed to ingest unstructured documents and raw text, enforcing strict JSON outputs for database ingestion without hallucinated keys.
+
+---
+
+## Contribution Activity
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgresql,git,vscode&theme=dark"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=igorhsouza&show_icons=true&theme=tokyonight&hide_border=true&title_color=007ACC&icon_color=007ACC" alt="GitHub Stats"/>
 </p>
 
 ---
 
-<h2 align="center">🚀 Live Projects</h2>
+## Contact
 
 <p align="center">
-<img src="https://img.shields.io/badge/ERP%20Oracle%20Telegram%20Bot-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Retail%20Intelligence%20Pipeline-111111?style=for-the-badge"/>
+  <a href="https://linkedin.com/in/igorhsl" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Margin%20Auditor%20Engine-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20WhatsApp%20Flows-111111?style=for-the-badge"/>
-</p>
-
----
-
----
-
-<h2 align="center">🌌 Contribution Matrix</h2>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=igorhsouza&theme=react-dark&hide_border=true&line=8A2BE2&point=FFFFFF"/>
-</p>
-
----
-
-<h2 align="center">🐺 Philosophy</h2>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Useful%20Systems%20%3E%20Fancy%20Code-8A2BE2?style=for-the-badge"/>
-</p>
-
----
-
-<h2 align="center">☠️ Connect</h2>
-
-<p align="center">
-<a href="https://linkedin.com/in/igorhsl">
-<img src="https://img.shields.io/badge/Let's%20Build%20Something-8A2BE2?style=for-the-badge"/>
-</a>
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=igorhsouza&label=Visitors&color=8A2BE2&style=flat"/>
-</p>
-```
